@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-My name is [Suman Man Bramhacharya](https://www.linkedin.com/in/suman-bramhacharya-6648288a). I'm an aspiring Data Science Unicorn with background in Computer Science, Mathematics and Business Analytics. I have bachelor's degrees in Computer Science and Mathematics and master's degree in Business Analytics. 
+My name is [Suman Man Bramhacharya](https://www.linkedin.com/in/suman-bramhacharya-6648288a). I'm an aspiring Data Unicorn with background in Computer Science, Mathematics and Business Analytics. I have bachelor's degrees in Computer Science and Mathematics and master's degree in Business Analytics. 
 
 
 
@@ -25,7 +25,7 @@ My name is [Suman Man Bramhacharya](https://www.linkedin.com/in/suman-bramhachar
 
 
 
-- 🔭 I’m currently applying to jobs in Data Science, Machine Learning, Data Analytics and Data Engineering. 
+- 🔭 I’m interested in Data Analytics, Data Engineering, Data Science, Machine Learning. 
 - 📫 How to reach me: https://www.linkedin.com/in/suman-bramhacharya-6648288a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak 4 languages. 
